@@ -2,5 +2,7 @@
 
 Human Development/Data Science 
 
-Sept Data Science Assignment [Blumenstock Response](blumenstock.html) 
+## Informal Responses
+
+September 9/9/2021 Data Science Assignment [Blumenstock Response](blumenstock.html)  
 
