@@ -6,5 +6,5 @@ Human Development/Data Science
 
 September 9/9/2021 Data Science Assignment [blumenstockresponse](blumenstock.html) 
 
-## Formal Assignments 
+ 
 
