@@ -2,5 +2,5 @@
 
 Human Development/Data Science 
 
-Sept Data Science Assignment(blumenstock.html) 
+Sept Data Science Assignment [Blumenstock Response](blumenstock.html) 
 
