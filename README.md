@@ -12,3 +12,5 @@ September 9/9/2021 Data Science Response #1 [blumenstockresponse](blumenstock.ht
 September 9/11/2021 Data Science Response #2 [roslingresponse](rosling.html) 
 
 September 9/21/2021 Data Science Response #3 [barderresponse](barder.html)
+
+September 9/23/2021 Data Science Mini Essay [miniessayresponse](miniessay.html) 
