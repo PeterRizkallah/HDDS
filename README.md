@@ -7,7 +7,8 @@ Hey there! I'm Peter Rizkallah and I plan on majoring in International Relations
 
 ## Informal Responses
 
-September 9/9/2021 Data Science Assignment #1 [blumenstockresponse](blumenstock.html) 
+September 9/9/2021 Data Science Response #1 [blumenstockresponse](blumenstock.html) 
 
-September 9/11/2021 Data Science Assignment #2 [roslingresponse](rosling.html) 
+September 9/11/2021 Data Science Response #2 [roslingresponse](rosling.html) 
 
+September 9/21/2021 Data Science Response #3 [barderresponse](barder.html)
