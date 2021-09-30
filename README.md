@@ -14,3 +14,5 @@ September 9/11/2021 Data Science Response #2 [roslingresponse](rosling.html)
 September 9/21/2021 Data Science Response #3 [barderresponse](barder.html)
 
 September 9/23/2021 Data Science Mini Essay [miniessayresponse](miniessay.html) 
+
+September 9/28/2021 Data Science Who Am I? [whoamiresponse](whoami.html)
