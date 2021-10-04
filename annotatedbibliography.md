@@ -5,6 +5,7 @@ COLL 150 Human Development and Data Science
 3 October 2021
 
 Word Count: 2,026
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Annotated Bibliography: Methods in Disaster Management in Cote d'Ivoire, the Democratic Republic of Congo, Haiti, and Japan
