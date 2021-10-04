@@ -18,3 +18,7 @@ September 9/23/2021 Data Science Mini Essay [miniessayresponse](miniessay.html)
 September 9/28/2021 Data Science Who Am I? [whoamiresponse](whoami.html) 
 
 September 9/30/2021 Data Science Bubbles Essay [lebanonandsyria](lebanonandsyria.html)
+
+## Formal Responses
+
+October 10/03/2021 Annotated Bibliography[annotatedbibliography](annotatedbibliography.html)
