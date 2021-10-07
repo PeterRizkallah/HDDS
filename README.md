@@ -19,6 +19,8 @@ September 9/28/2021 Data Science Who Am I? [whoamiresponse](whoami.html)
 
 September 9/30/2021 Data Science Bubbles Essay [lebanonandsyria](lebanonandsyria.html)
 
+October 10/07/2021 Data Science Corruption Essay [corruption](oct7essay.html)
+
 ## Formal Responses
 
 October 10/03/2021 Annotated Bibliography[annotatedbibliography](annotatedbibliography.html)
