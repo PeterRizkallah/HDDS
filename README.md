@@ -21,6 +21,8 @@ September 9/30/2021 Data Science Bubbles Essay [lebanonandsyria](lebanonandsyria
 
 October 10/07/2021 Data Science Corruption Essay [corruption](oct7essay.html)
 
+October 10/12/2021 Data Science China's Plan [beltandroad](beltandroad.html)
+
 ## Formal Responses
 
 October 10/03/2021 Annotated Bibliography[annotatedbibliography](annotatedbibliography.html)
