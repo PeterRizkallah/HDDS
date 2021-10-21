@@ -23,7 +23,7 @@ October 10/07/2021 Data Science Corruption Essay [corruption](oct7essay.html)
 
 October 10/12/2021 Data Science China's Plan [beltandroad](beltandroad.html)
 
-October 10/21/2021 Data Science Technological Abundance [technologicalabundance](techabund.html) 
+October 10/21/2021 Data Science Technological Abundance [technabund](techabund.html) 
 
 ## Formal Responses
 
