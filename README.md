@@ -27,4 +27,6 @@ October 10/21/2021 Data Science Technological Abundance [technabund](techabund.h
 
 ## Formal Responses
 
-October 10/03/2021 Annotated Bibliography[annotatedbibliography](annotatedbibliography.html)
+October 10/03/2021 Annotated Bibliography [annotatedbibliography](annotatedbibliography.html)
+
+October 10/24/2021 Literature Review [literaturereview](literaturereview.html)
