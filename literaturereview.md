@@ -6,7 +6,7 @@ COLL 150 Human Development/Data Science
 
 Professor Brewer
 
-Word Count: 2,566
+Word Count: 2,812
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ Rehman, Sajid ur, et al. "Ammonium Nitrate Is a Risk for Environment: A Case Stu
 
 Seddon , Bob, and Himayu Shiotani . "The Beirut Port Explosion: Understanding Its Impacts and How to Reduce Risks from Explosive Precursors." HeinOnline, https://heinonline.org/HOL/Page?handle=hein.unl%2Fbpeui0001&id=1&collection=unl&index=. Accessed 22 Oct. 2021.
 
-Statistics Lebanon, "Beyond Data: Statistics Lebanon." Beyond Data | Statistics Lebanon Polling and Research , Stat, https://www.statisticslebanonltd.com/node/149. Accessed 22 Oct. 2021.
+Statistics Lebanon, "Beyond Data: Statistics Lebanon." Beyond Data: Statistics Lebanon Polling and Research, Stat, https://www.statisticslebanonltd.com/node/149. Accessed 22 Oct. 2021.
 
 World Health Organization (WHO). Beirut Port Blast Emergency Strategic Response Plan (2020). Available online at: http://www.emro.who.int/images/stories/lebanon/who-lebanon-strategic-response-plan-27.9.20.pdf?ua=1 Accessed 22 Oct. 2021.
 
