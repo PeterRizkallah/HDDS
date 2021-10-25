@@ -7,6 +7,7 @@ COLL 150 Human Development/Data Science
 Professor Brewer
 
 Word Count: 2,566
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Literature Review
@@ -41,4 +42,37 @@ The Haitian earthquake that occurred in 2010 may also add an extension to the cu
 
 # Social Media as a Conduit for Disaster Management
 
-When people cannot physically meet to discuss a recent disaster in the world, they usually take it to social media to spread awareness about the topic. However, many scholars in the field of data science may have underestimated the true potential of social media and how it can be harnessed to ameliorate the process of aid distribution, especially in Lebanon. In 2011, a massive tsunami struck Japan. However, Japan’s unique archipelago island structure made many people resort to social media to describe the magnitude of destruction that was caused to their homes. The study implemented the use of network structure and community evolution on Twitter to observe the human response to the tsunami online. The data method used in this study included a topsy method that was aimed at measuring the response changes in Japanese speakers, non-native Japanese speakers, and global users. The method was used in response to the researchers’ critique on retroactive studies, which spent an excessive amount of time collecting survey and interview data, neglecting the immediate impacts to the Japanese community.
+When people cannot physically meet to discuss a recent disaster in the world, they usually take it to social media to spread awareness about the topic. However, many scholars in the field of data science may have underestimated the true potential of social media and how it can be harnessed to ameliorate the process of aid distribution, especially in Lebanon. In 2011, a massive tsunami struck Japan. However, Japan’s unique archipelago island structure made many people resort to social media to describe the magnitude of destruction that was caused to their homes. The study implemented the use of network structure and community evolution on Twitter to observe the human response to the tsunami online. The data method used in this study included a topsy method that was aimed at measuring the response changes in Japanese speakers, non-native Japanese speakers, and global users. The method was used in response to the researchers’ critique on retroactive studies, which spent an excessive amount of time collecting survey and interview data, neglecting the immediate impacts to the Japanese community. According to Network Structure and Community Evolution on Twitter: Human Behavior Change in Response to the 2011 Japanese Earthquake and Tsunami, “To overcome these issues, researchers have recently used more objective and timely data, generated from sensor networks such as cell phone towers, to track individual mobility and population flow for large populations in real-time, providing a unique solution for disaster response and relief management” (Lu & Brelsford, 2014). Much like the Japanese tsunami emergency response, Lebanese health authorities were not prepared to aid the population in the aftermath of the explosion due to their focus on post-disaster as opposed to the necessary arrangements that needed to be implemented with cell cluster data, which could have been used alongside topsy methods using social media as a dataset. According to The Beirut Port Explosion: Understanding Its Impacts and How to Reduce Risks from Explosive Precursors, “The harm to the density and inherent vulnerability of the civilian population and its dependence on the web of critical interconnected services that are equally vulnerable to the damaging effects of the explosive blast” (Seddon & Shiotani, 2020). Not only could communication through the access to cellular devices have directed emergency aid officials to injured civilians, but it could have strengthened long-term support for even the aftermath of the explosion by making international donors aware of the urgent conditions sooner.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Is There a Gap in These Pieces of Data Science Literature?
+
+The development of technologies to supplement the human population in its efforts to sustain life has nonlinear potential in terms of comparing theory to its application to practical situations. In Development as Freedom, this is emphasized in the passage, “it must also take note of the empirical linkages that tie the distinct types of freedom together, strengthening their joint importance” (Sen, 1999). Although data scientists are capable of constructing simulations of events that can be empirically analyzed through the lens of experimentation, it does not negate the existence of human authority over people. If these methods are expected to be used for the greater people of Lebanon, the institutions in which they are subject must also change to accommodate them. As of now, the multiparty republic that governs Lebanon cannot reach a consensus on what should be done for the people of the country. The handling of chemicals in the port warehouse and the speed of the population’s recovery can be attributed to the way in which the government conducts itself, which has not been able to put its people first and instead has used its institutions of power for personal gains when it could be used to improve health infrastructure and methods of data collection to avoid future catastrophes. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Works Cited
+
+Bharti, Nita, et al. "Remotely Measuring Populations during a Crisis by Overlaying Two Data Sources ." Oxford Academic Journals, 26 Feb. 2015, https://academic.oup.com/inthealth/article/7/2/90/662727?sid=92f0cba8-fd00-4b3d-b6fc-bbaf6406cfbc. Accessed 2 Oct. 2021.
+
+El Sayed, Mazen J. "Beirut Ammonium Nitrate Explosion: A Man-Made Disaster in Times of the Covid-19 Pandemic." Disaster Medicine and Public Health Preparedness, Cambridge University Press, 18 Nov. 2020, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7985624/. Accessed 22 Oct. 2021
+
+Flowminder, and Vodacom RDC. "Publication: Eruption of Mount Nyiragongo: Estimating Population Displacement Using Mobile Operator Data." Publication: Eruption of Mount Nyiragongo: Estimating Population Displacement Using Mobile Operator Data, 6 July 2021, https://www.flowminder.org/resources/publications/eruption-of-mount-nyiragongo-estimating-population-displacement-using-mobile-operator-data-call-detail-records. Accessed 2 Oct. 2021.
+
+Flowminder. "2021 Haiti Earthquake: Population Movements Estimated with Mobile Operator Data from Digicel Haiti: Report from 27 August." 2021 Haiti Earthquake: Population Movements Estimated with Mobile Operator Data from Digicel Haiti: Report from 27 August., 27 Aug. 2021, https://www.flowminder.org/resources/publications/2021-haiti-earthquake-report-2-population-movements-estimated-with-mobile-operator-data-from-digicel-haiti-report-from-27-august. Accessed 2 Oct. 2021.
+
+Gale, "After the devastating explosion, Lebanon's prime minister quits; Taking a fall." The Economist, 10 Aug. 2020. Gale In Context: Opposing Viewpoints, link.gale.com/apps/doc/A632179749/OVIC?u=viva_wm&sid=bookmark-OVIC&xid=7a1fbd7d. Accessed 22 Oct. 2021.
+
+Kumat), Sen Amartya (Amartya. Development as Freedom. Oxford University Press, 1999.
+Lu, Xin, and Christa Brelsford. "Network Structure and Community Evolution on Twitter: Human Behavior Change in Response to the 2011 Japanese Earthquake and Tsunami." Nature News, Nature Publishing Group, 27 Oct. 2014, https://www.nature.com/articles/srep06773. Accessed 2 Oct. 2021.
+
+Rehman, Sajid ur, et al. "Ammonium Nitrate Is a Risk for Environment: A Case Study of Beirut (Lebanon) Chemical Explosion and the Effects on Environment." Ecotoxicology and Environmental Safety, Academic Press, 2 Jan. 2021, https://www.sciencedirect.com/science/article/pii/S0147651320316705?via%3Dihub. Accessed 22 Oct. 2021.
+
+Seddon , Bob, and Himayu Shiotani . "The Beirut Port Explosion: Understanding Its Impacts and How to Reduce Risks from Explosive Precursors." HeinOnline, https://heinonline.org/HOL/Page?handle=hein.unl%2Fbpeui0001&id=1&collection=unl&index=. Accessed 22 Oct. 2021.
+
+Statistics Lebanon, "Beyond Data: Statistics Lebanon." Beyond Data | Statistics Lebanon Polling and Research , Stat, https://www.statisticslebanonltd.com/node/149. Accessed 22 Oct. 2021.
+
+World Health Organization (WHO). Beirut Port Blast Emergency Strategic Response Plan (2020). Available online at: http://www.emro.who.int/images/stories/lebanon/who-lebanon-strategic-response-plan-27.9.20.pdf?ua=1 Accessed 22 Oct. 2021.
+
+
