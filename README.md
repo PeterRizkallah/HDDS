@@ -25,6 +25,8 @@ October 10/12/2021 Data Science China's Plan [beltandroad](beltandroad.html)
 
 October 10/21/2021 Data Science Technological Abundance [technabund](techabund.html) 
 
+October 10/28/2021 Data Science and International Relations [datascience&major](datascience&major.html) 
+
 ## Formal Responses
 
 October 10/03/2021 Annotated Bibliography [annotatedbibliography](annotatedbibliography.html)
