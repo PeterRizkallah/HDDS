@@ -27,6 +27,8 @@ October 10/21/2021 Data Science Technological Abundance [technabund](techabund.h
 
 October 10/28/2021 Data Science and International Relations [datascience&major](datascience&major.html) 
 
+November 11/2/2021 Data Science HDI [humandevelopmentindex](humandevelopmentindex.html)
+
 ## Formal Responses
 
 October 10/03/2021 Annotated Bibliography [annotatedbibliography](annotatedbibliography.html)
