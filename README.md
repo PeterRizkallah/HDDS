@@ -29,6 +29,8 @@ October 10/28/2021 Data Science and International Relations [datascience&major](
 
 November 11/2/2021 Data Science HDI [humandevelopmentindex](humandevelopmentindex.html)
 
+November 11/4/2021 Data Science Militarized [datasciencemilitarized](datasciencemilitarized.html) 
+
 ## Formal Responses
 
 October 10/03/2021 Annotated Bibliography [annotatedbibliography](annotatedbibliography.html)
