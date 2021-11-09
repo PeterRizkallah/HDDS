@@ -31,6 +31,8 @@ November 11/2/2021 Data Science HDI [humandevelopmentindex](humandevelopmentinde
 
 November 11/4/2021 Data Science Militarized [datasciencemilitarized](datasciencemilitarized.html) 
 
+November 11/9/2021 Data Science Facial Recognition [facialrecognition](facialrecognition.html) 
+
 ## Formal Responses
 
 October 10/03/2021 Annotated Bibliography [annotatedbibliography](annotatedbibliography.html)
