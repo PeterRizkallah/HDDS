@@ -33,6 +33,8 @@ November 11/4/2021 Data Science Militarized [datasciencemilitarized](datascience
 
 November 11/9/2021 Data Science Facial Recognition [facialrecognition](facialrecognition.html) 
 
+Novemeber 11/11/2021 Data Science Diplomacy [diplomacyinthepandemic](diplomacyinthepandemic.html) 
+
 ## Formal Responses
 
 October 10/03/2021 Annotated Bibliography [annotatedbibliography](annotatedbibliography.html)
