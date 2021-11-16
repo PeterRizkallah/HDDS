@@ -33,7 +33,9 @@ November 11/4/2021 Data Science Militarized [datasciencemilitarized](datascience
 
 November 11/9/2021 Data Science Facial Recognition [facialrecognition](facialrecognition.html) 
 
-Novemeber 11/11/2021 Data Science Diplomacy [diplomacyinthepandemic](diplomacyinthepandemic.html) 
+Novemeber 11/11/2021 Data Science Diplomacy [diplomacyinthepandemic](diplomacyinthepandemic.html)
+
+November 11/16/2021 Data Science Self-Driving Cars [selfdrivingcars](selfdrivingcars.html) 
 
 ## Formal Responses
 
