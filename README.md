@@ -42,3 +42,5 @@ November 11/16/2021 Data Science Self-Driving Cars [selfdrivingcars](selfdriving
 October 10/03/2021 Annotated Bibliography [annotatedbibliography](annotatedbibliography.html)
 
 October 10/24/2021 Literature Review [literaturereview](literaturereview.html)
+
+November 11/21/2021 Methodology Investigation [methodologyinvestigation](methodologyinvestigation.html) 
