@@ -44,3 +44,5 @@ October 10/03/2021 Annotated Bibliography [annotatedbibliography](annotatedbibli
 October 10/24/2021 Literature Review [literaturereview](literaturereview.html)
 
 November 11/21/2021 Methodology Investigation [methodologyinvestigation](methodologyinvestigation.html) 
+
+December 12/6/2021 Abstract [abstract](abstract.html) 
