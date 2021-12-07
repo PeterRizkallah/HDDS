@@ -1,4 +1,4 @@
-## Observing Disaster Management in Lebanon through an Analysis of the Democratic Republic of the Congo anf Japan Disasters 
+## Observing Disaster Management in Lebanon through an Analysis of Disasters in the Democratic Republic of the Congo and Japan 
 
 # Abstract 
 
